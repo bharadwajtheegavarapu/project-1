@@ -1,0 +1,19 @@
+# project-1 Real Esatae Price Prediction
+Price of the property is one of the most important decision when people buy homes.
+
+This project has the data of customers those who already buyed the home with price
+
+For predicting the property based on lot of factors. This Research aims to understand all patterns and to apply analytics for price prediction
+
+The aim is to building regression models which will predict the continuous  price for each property
+And prediction depending on the multiple positional and general factors
+
+Examining the data imputing missing values   and dealing with outliers
+
+The correlation between the features founded by corr( ) function.
+
+Algorithms used: Linear Regression, Decision Tree  and  Random Forest regression with  hyper parameters, k-fold cross validation
+
+The quality of a Regression Model is, how well predictions match up against actual values, and Error metrics(RMSE) are used to judge the quality of the model.
+
+From the above mentioned models ,Random Forest is the best model as it has the lowest RMSE score,  Which  tells that the how well the model fits in this data 
