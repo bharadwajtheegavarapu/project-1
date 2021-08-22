@@ -5,7 +5,7 @@ This project has the data of customers those who already buyed the home with pri
 
 For predicting the property based on lot of factors. This Research aims to understand all patterns and to apply analytics for price prediction
 
-The aim is to building regression models which will predict the continuous  price for each property
+The aim is to building regression models which will predict the continuous numeric( price ) for each property
 And prediction depending on the multiple positional and general factors
 
 Examining the data imputing missing values   and dealing with outliers
